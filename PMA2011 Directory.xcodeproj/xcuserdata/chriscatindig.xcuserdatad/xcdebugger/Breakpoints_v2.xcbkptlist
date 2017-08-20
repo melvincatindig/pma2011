@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PMA2011 Directory/ViewController.swift"
+            timestampString = "524921981.58802"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PMA2011_Directory.ViewController.__deallocating_deinit"
+                  moduleName = "PMA2011 Directory"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chriscatindig/Desktop/PMA2011%20Directory/PMA2011%20Directory/ViewController.swift"
+                  timestampString = "524923304.327601"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PMA2011_Directory.ViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; PMA2011_Directory.ViewController"
+                  moduleName = "PMA2011 Directory"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chriscatindig/Desktop/PMA2011%20Directory/PMA2011%20Directory/ViewController.swift"
+                  timestampString = "524923304.332024"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "70">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PMA2011_Directory.ViewController.__allocating_init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; PMA2011_Directory.ViewController"
+                  moduleName = "PMA2011 Directory"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chriscatindig/Desktop/PMA2011%20Directory/PMA2011%20Directory/ViewController.swift"
+                  timestampString = "524923304.335409"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PMA2011_Directory.ViewController.__allocating_init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;PMA2011_Directory.ViewController&gt;"
+                  moduleName = "PMA2011 Directory"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chriscatindig/Desktop/PMA2011%20Directory/PMA2011%20Directory/ViewController.swift"
+                  timestampString = "524923304.339453"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PMA2011_Directory.ViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;PMA2011_Directory.ViewController&gt;"
+                  moduleName = "PMA2011 Directory"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chriscatindig/Desktop/PMA2011%20Directory/PMA2011%20Directory/ViewController.swift"
+                  timestampString = "524923304.342959"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
